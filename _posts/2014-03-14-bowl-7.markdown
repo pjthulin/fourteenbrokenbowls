@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "bowl number seven"
+date:   2014-03-14 17:08:00
+categories: bowl
+excerpt: 
+bowl: /assets/JB7-1280.jpg
+---
+
+bowl number seven, mark aag341, has eleven thousand layers and it is an arduous thing to make and so it is very sad when something falls on it during the firing process and it therefore has to be condemned. 
+
+<img src="/assets/JB7-1280.jpg" class="bowl-large"/>
+
+
+
+

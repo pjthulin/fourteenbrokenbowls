@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "bowl number six"
+date:   2014-03-14 17:09:00
+categories: bowl
+excerpt: 
+bowl: /assets/JB6-1280.jpg
+---
+
+
+bowl number six, mark is illegible, has a wonderful inscription "long after the room fell silent and the whispers suffocated, I still loved you" 
+
+<img src="/assets/JB6-1280.jpg" class="bowl-large"/>
+
+
+
+

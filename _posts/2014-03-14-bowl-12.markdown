@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "bowl number twelve"
+date:   2014-03-14 17:03:00
+categories: bowl
+excerpt: 
+bowl: /assets/JB12-1280.jpg
+---
+
+bowl number twelve, mark is eligible, has tsjaikovski in the center and he also appear in a smaller image on the back. 
+
+<img src="/assets/JB12-1280.jpg" class="bowl-large"/>
+
+
+
+

@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "bowl number thirteen"
+date:   2014-03-14 17:02:00
+categories: bowl
+excerpt: 
+bowl: /assets/JB13-1280.jpg
+---
+
+bowl number thirteen, marked aah966, has a road leading to a house on it. the sound has a growl from two hard surfaces vibrating against each other, as a result from a crack that appeared during the post-firing.
+
+<img src="/assets/JB13-1280.jpg" class="bowl-large"/>
+
+
+
+

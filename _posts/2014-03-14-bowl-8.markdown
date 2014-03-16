@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "bowl number eight"
+date:   2014-03-14 17:07:00
+categories: bowl
+excerpt: 
+bowl: /assets/JB8-1280.jpg
+---
+
+bowl number eight, marked aah538. 
+
+<img src="/assets/JB8-1280.jpg" class="bowl-large"/>
+
+
+
+

@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "bowl number fourteen"
+date:   2014-03-14 17:01:00
+categories: bowl
+excerpt:
+bowl: /assets/JB14-1280.jpg
+---
+
+bowl number fourteen, marked aa??332, has the cape dwarf chameleon and asparagus fern on it, and various coins on the back. 
+one can hear the dissonance from a large crack in the bowl from the pre-firing, not post-firing as it doesn't have a growl.
+
+<img src="/assets/JB14-1280.jpg" class="bowl">
+
+
+
+

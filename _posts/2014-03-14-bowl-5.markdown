@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "bowl number five"
+date:   2014-03-14 17:10:00
+categories: bowl
+excerpt: 
+bowl: /assets/JB5-1280.jpg
+---
+
+
+bowl number five is marked aah647. 
+
+<img src="/assets/JB5-1280.jpg" class="bowl-large"/>
+
+
+
+

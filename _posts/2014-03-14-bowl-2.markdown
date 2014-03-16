@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "bowl number two"
+date:   2014-03-14 17:13:00
+categories: bowl
+excerpt:
+bowl: /assets/JB2-1280.jpg
+---
+
+
+bowl number two, marked aai028, is a mosaic porcelain and it illuminates in an amazing way. it has a beautiful resonance, but one can hear a crack that appeared in the firing process.
+
+<img src="/assets/JB2-1280.jpg" class="bowl-large">
+
+
+
+

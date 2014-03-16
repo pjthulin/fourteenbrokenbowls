@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "bowl number ten"
+date:   2014-03-14 17:05:00
+categories: bowl
+excerpt: 
+bowl: /assets/JB10-1280.jpg
+---
+
+
+bowl number ten, mark is illegible.
+
+<img src="/assets/JB10-1280.jpg" class="bowl-large"/>
+
+
+
+

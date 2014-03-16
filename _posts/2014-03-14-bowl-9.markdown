@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "bowl number nine"
+date:   2014-03-14 17:06:00
+categories: bowl
+excerpt: 
+bowl: /assets/JB9-1280.jpg
+---
+
+bowl number nine, mark is illegible, has a small crack in it. 
+
+<img src="/assets/JB9-1280.jpg" class="bowl-large"/>
+
+
+
+
