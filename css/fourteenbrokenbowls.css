@@ -16,8 +16,8 @@
 }
 
 .bowl-small {
-  width: 240px;
-  padding: 5px
+  width: 218px;
+  padding: 5px 0
 }
 
 body, #search input  {
@@ -25,26 +25,52 @@ body, #search input  {
 }
 
 body  {
-  color: #999999;
+  /*color: #999999;*/
+  color:  #202020;
   background-color: #ffffff;
-  font-size: 11px;
+  font-size: 14px;
   font-family: courier new,monospace
+}
 
+.container { 
+	position: relative; 
+	width: 960px; 
+	margin: 0 auto; 
+	padding: 0; 
 }
 
 a  {
-  color: #708090
+	/*color: #708090*/
+  color: #101010;
+	font-weight: bold;
 }
 
-blockquote, #top, #search input, .the-border, #foot-nav  {
-  border-color: #f1f1f1;
+h2 {
+  font-weight: bold;
+  font-size: 14px;
+}
+
+
+blockquote, #search input, .the-border, #foot-nav  {
+  border-color: #DDDDDD;
   border-width: 1px;
   border-style: solid
 }
 
-.post  {
+
+#top {
+	padding: 5px 0;
+	margin: 5px;
+  border-bottom: 1px #DDDDDD solid;
+
+}
+
+
+.post {
+	width: 218px;
   mid-height: 24px;
-  margin: 5px
+  margin: 5px;
+  padding: 5px
 }
 
 .text .title, .the-quote, .the-link a, .chat .title, .asked  {
@@ -52,13 +78,6 @@ blockquote, #top, #search input, .the-border, #foot-nav  {
   font-family: courier new,monospace
 }
 
-.album-art, .audio-meta li  {
-  background-color: #eeeeee
-}
-
-#toTop  {
-  background-image: url('http: //static.tumblr.com/eatauj5/Wupll45l8/arrow-up.png')
-}
 
 #index .meta, .caption-outer  {
   background-color: #ffffff
@@ -68,16 +87,5 @@ blockquote, #top, #search input, .the-border, #foot-nav  {
   color: #708090
 }
 
-h2 {
-  font-weight: bold;
-  font-size: 12px;
-}
 
-body  {
-  color:  #606060;
-}
 
-a  {
-  color:  #101010;
-   font-weight: bold;
-}

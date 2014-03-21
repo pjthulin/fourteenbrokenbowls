@@ -1,17 +1,16 @@
 ---
 layout: homepage
-title: fourteen broken bowls
-other: I was here just now. and then again...
+title: Fourteen Broken Bowls
 ---
 
     {% for post in site.posts %}
-      <div class="work-block one-third.column post the-border">
+      <div class="work-block post the-border">
         {% if post.bowl contains 'jpg' %}
-          {{ post.title }} <br/>
+          <strong>{{ post.title }}</strong> <br/>
           <a href="{{ post.url }}" >
             <img src="{{post.bowl}}" class="bowl-small" alt="{{ post.title }}"/>
-
           </a>
+		  <p>some random info about bowls</p>
         {% else %}
           {{ post.content }}
         {% endif %}

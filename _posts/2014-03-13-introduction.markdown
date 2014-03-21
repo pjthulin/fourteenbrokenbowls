@@ -4,12 +4,13 @@ title:  "fourteen broken bowls"
 date:   2014-03-15 17:00:00
 categories: bowl
 excerpt: fourteen broken bowls is the recordings of the sounds created by porcelain bowls being first hit with a mallet and then dropped to the floor to be broken.
-bowl:
+bowl: /assets/john-bauer-with-bowl.JPG
 ---
+
 fourteen broken bowls is the recordings of the sounds created by porcelain bowls being first hit with a mallet and then dropped to the floor to be broken.
 
 
 
-
+<img src="/assets/john-bauer-with-bowl.JPG" width="200">
 
 
