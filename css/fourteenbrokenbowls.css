@@ -12,12 +12,13 @@
 /*****************************************************************************/
 
 .bowl-large {
-  width: 640px;
+  width: 560px;
 }
 
 .bowl-small {
   width: 218px;
-  padding: 5px 0
+  padding: 5px 0;
+  
 }
 
 body, #search input  {
@@ -67,10 +68,23 @@ blockquote, #search input, .the-border, #foot-nav  {
 
 
 .post {
+  background-color: #eee;
 	width: 218px;
   mid-height: 24px;
   margin: 5px;
   padding: 5px
+}
+
+.post a {
+	text-decoration: none;
+
+}
+
+.post h2 {
+	-webkit-margin-before: 0em;
+  -webkit-margin-after: 0.4em;
+	-webkit-margin-start: 0px;
+	-webkit-margin-end: 0px;
 }
 
 .text .title, .the-quote, .the-link a, .chat .title, .asked  {
@@ -88,4 +102,28 @@ blockquote, #search input, .the-border, #foot-nav  {
 }
 
 
-
+input#round {
+	width:30px; /*same as the height*/
+	height:30px; /*same as the width*/
+	background-color: #AAAAAA;
+	border:1px solid #AAAAAA; /*same colour as the background*/
+	color:#fff;
+	font-size:0.6em;
+	/*set the border-radius at half the size of the width and height*/
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	/*give the button a small drop shadow*/
+	-webkit-box-shadow: 0 0 10px rgba(0,0,0, .75);
+	-moz-box-shadow: 0 0 10px rgba(0,0,0, .75);
+	box-shadow: 2px 2px 15px rgba(0,0,0, .75);
+}
+/***NOW STYLE THE BUTTON'S HOVER STATE***/
+input#round:hover {
+	background:#444444;
+	border:1px solid #444444;
+	/*reduce the size of the shadow to give a pushed effect*/
+	-webkit-box-shadow: 0px 0px 5px rgba(0,0,0, .75);
+	-moz-box-shadow: 0px 0px 5px rgba(0,0,0, .75);
+	box-shadow: 0px 0px 5px rgba(0,0,0, .75);
+}

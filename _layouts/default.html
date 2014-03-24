@@ -16,9 +16,36 @@
 	<link rel="stylesheet" href="/css/skeleton.css">
 	-->        
 	<link rel="stylesheet" href="/css/fourteenbrokenbowls.css">
+	<link type="text/css" href="/skin/blue.monday/jplayer.blue.monday.css" rel="stylesheet" />
 	
-	<script src="/jquery-1.10.2.min.js"></script>
-	<script src="/jquery.isotope.min.js"></script>
+	<script type="text/javascript" src="/jquery-1.10.2.min.js"></script>
+	<script type="text/javascript" src="/jquery.jplayer.pjt.0.0.1.js"></script>
+	<script type="text/javascript" src="/jquery.isotope.min.js"></script>
+
+	<script type="text/javascript">
+	    $(document).ready(function(){
+	      $("#jquery_jplayer_1").jPlayer({
+	        ready: function () {
+	          $(this).jPlayer("setMedia", {
+	            m4a: "/assets/bowl-3-break.m4a"
+	          });
+	        },
+	        swfPath: "/",
+	        supplied: "m4a"
+	      });
+	    });
+
+		function selectSound(evt){
+			var file = evt.id || "";
+			console.log("selectSound: " + file);
+			$("#jquery_jplayer_1").jPlayer("setMedia", {
+	            m4a: file
+         	});	
+		}
+		
+
+    </script>
+
 	</head>
     <body class="">
         <div class="container">

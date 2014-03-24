@@ -5,12 +5,40 @@ title: Fourteen Broken Bowls
 
     {% for post in site.posts %}
       <div class="work-block post the-border">
-        {% if post.bowl contains 'jpg' %}
-          <strong>{{ post.title }}</strong> <br/>
+        {% if post.categories contains 'bowl' %}
+          <h2>{{ post.title }}</h2>
           <a href="{{ post.url }}" >
             <img src="{{post.bowl}}" class="bowl-small" alt="{{ post.title }}"/>
           </a>
-		  <p>some random info about bowls</p>
+		  <!-- <p>{{ post.excerpt }}</p> -->
+		  
+		  <div id="jquery_jplayer_1" class="jp-jplayer"></div>
+		  <div id="jp_container_1" class="jp-audio">
+		    <div class="jp-type-single">
+		      <div id="{{ post.soundHit }}" class="jp-gui jp-interface" onmouseover="selectSound(this)">
+		        <ul class="jp-controls">
+		          <li><a href="javascript:;" class="jp-play" tabindex="1">play</a></li>
+		          <!-- <li><a href="javascript:;" class="jp-pause" tabindex="1">pause</a></li> --> 
+		          
+		        </ul>
+		      </div>
+		      <div style="display:inline-block;width:125px"></div>
+		      <div id="{{ post.soundBreak }}" class="jp-gui jp-interface" onmouseover="selectSound(this)">
+		        <ul class="jp-controls">
+		          <li><a href="javascript:;" class="jp-play" tabindex="1">play</a></li>
+		        </ul>
+		      </div>		      
+		      <div class="jp-no-solution">
+		        <span>Update Required</span>
+		        To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+		      </div>
+		    </div>
+		  </div>
+        {% else if post.categories contains 'bowl' %}
+          <a href="{{ post.url }}" >
+            {{ post.excerpt }}
+            <img src="{{post.image}}" class="bowl-small" alt="{{ post.title }}"/>
+          </a>
         {% else %}
           {{ post.content }}
         {% endif %}
