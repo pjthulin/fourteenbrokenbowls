@@ -5,6 +5,9 @@ date:   2014-03-14 17:11:00
 categories: bowl
 excerpt: 
 bowl: /assets/JB4-1280.jpg
+soundHit: /assets/bowl-4-hit.m4a
+soundBreak: /assets/bowl-4-break.m4a
+bowlNumber: 4
 ---
 
 
