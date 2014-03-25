@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "bowl number nine"
+title:  "Bowl Number Nine"
 date:   2014-03-14 17:06:00
 categories: bowl
 excerpt: 
@@ -10,7 +10,7 @@ soundBreak: /assets/bowl-9-break.m4a
 bowlNumber: 9
 ---
 
-bowl number nine, mark is illegible, has a small crack in it. 
+Bowl Number nine, mark is illegible, has a small crack in it. 
 
 <img src="/assets/JB9-1280.jpg" class="bowl-large"/>
 

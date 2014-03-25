@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "bowl number fourteen"
+title:  "Bowl Number Fourteen"
 date:   2014-03-14 17:01:00
 categories: bowl
 excerpt:

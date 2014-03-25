@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "bowl number three"
+title:  "Bowl Number Three"
 date:   2014-03-14 17:12:00
 categories: bowl
 excerpt: 
@@ -10,8 +10,7 @@ soundBreak: /assets/bowl-3-break.m4a
 bowlNumber: 3
 ---
 
-
-bowl number three, marked aah601, is part of john\'s research into bullet proof porcelain. this porcelain is so much more dense than normal porcelain. as a result the bowl broke the floor when dropped and is therefore the only bowl to survive this project. 
+Bowl Number three, marked aah601, is part of john\'s research into bullet proof porcelain. this porcelain is so much more dense than normal porcelain. as a result the bowl broke the floor when dropped and is therefore the only bowl to survive this project. 
 
 <img src="/assets/JB3-1280.jpg" class="bowl-large"/>
 

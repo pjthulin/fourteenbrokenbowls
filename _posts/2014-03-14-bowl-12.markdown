@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "bowl number twelve"
+title:  "Bowl Number Twelve"
 date:   2014-03-14 17:03:00
 categories: bowl
 excerpt: 
@@ -10,7 +10,7 @@ soundBreak: /assets/bowl-12-break.m4a
 bowlNumber: 12
 ---
 
-bowl number twelve, mark is eligible, has tsjaikovski in the center and he also appear in a smaller image on the back. 
+Bowl Number twelve, mark is eligible, has tsjaikovski in the center and he also appear in a smaller image on the back. 
 
 <img src="/assets/JB12-1280.jpg" class="bowl-large"/>
 

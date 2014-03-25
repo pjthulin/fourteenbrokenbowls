@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "bowl number eleven"
+title:  "Bowl Number Eleven"
 date:   2014-03-14 17:04:00
 categories: bowl
 excerpt: 
@@ -11,7 +11,7 @@ bowlNumber: 11
 ---
 
 
-bowl number eleven, mark is illegible. although absolutely gorgeous, has a piece of the kiln shelf stuck to it and was therefore irredeemable. 
+Bowl Number eleven, mark is illegible. although absolutely gorgeous, has a piece of the kiln shelf stuck to it and was therefore irredeemable. 
 
 <img src="/assets/JB11-1280.jpg" class="bowl-large"/>
 

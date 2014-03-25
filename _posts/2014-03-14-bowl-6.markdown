@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "bowl number six"
+title:  "Bowl Number Six"
 date:   2014-03-14 17:09:00
 categories: bowl
 excerpt: 
@@ -11,7 +11,7 @@ bowlNumber: 6
 ---
 
 
-bowl number six, mark is illegible, has a wonderful inscription "long after the room fell silent and the whispers suffocated, I still loved you" 
+Bowl Number six, mark is illegible, has a wonderful inscription "long after the room fell silent and the whispers suffocated, I still loved you" 
 
 <img src="/assets/JB6-1280.jpg" class="bowl-large"/>
 

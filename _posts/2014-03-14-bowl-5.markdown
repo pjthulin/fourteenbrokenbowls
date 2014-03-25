@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "bowl number five"
+title:  "Bowl Number Five"
 date:   2014-03-14 17:10:00
 categories: bowl
 excerpt: 
@@ -11,7 +11,7 @@ bowlNumber: 5
 ---
 
 
-bowl number five is marked aah647. 
+Bowl Number five is marked aah647. 
 
 <img src="/assets/JB5-1280.jpg" class="bowl-large"/>
 

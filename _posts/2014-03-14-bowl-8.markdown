@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "bowl number eight"
+title:  "Bowl Number Eight"
 date:   2014-03-14 17:07:00
 categories: bowl
 excerpt: 
@@ -10,7 +10,7 @@ soundBreak: /assets/bowl-8-break.m4a
 bowlNumber: 8
 ---
 
-bowl number eight, marked aah538. 
+Bowl Number eight, marked aah538. 
 
 <img src="/assets/JB8-1280.jpg" class="bowl-large"/>
 
