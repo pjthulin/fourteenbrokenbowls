@@ -22,15 +22,17 @@
 }
 
 body, #search input  {
-  font-family: courier new,monospace
+  /* font-family: courier new,monospace */
+  font-family: 'Cousine', ;
 }
 
 body  {
   /*color: #999999;*/
   color:  #202020;
   background-color: #ffffff;
-  font-size: 14px;
-  font-family: courier new,monospace
+  font-size: 13px;
+  /* font-family: courier new,monospace */
+  font-family: 'Cousine', ;
 }
 
 .container { 
@@ -46,9 +48,28 @@ a  {
 	font-weight: bold;
 }
 
-h2 {
+.post a  {
+	/*color: #708090*/
+  color: #101010;
+	font-weight: normal;
+	display:inline;
+}
+
+
+.header h1 {
   font-weight: bold;
-  font-size: 14px;
+  font-size: 34px;
+  margin-bottom: 0;
+}
+
+.header p {
+	margin-top: 0	
+}
+
+h2 {
+  color:  #000000;
+  font-weight: bold;
+  font-size: 13px;
 }
 
 
@@ -66,8 +87,17 @@ blockquote, #search input, .the-border, #foot-nav  {
 
 }
 
+.footer {
+	padding: 5px 0;
+	margin: 5px;
+  border-top: 1px #DDDDDD solid;
+  
+
+}
+
 
 .post {
+
   background-color: #eee;
 	width: 218px;
   mid-height: 24px;
@@ -89,7 +119,9 @@ blockquote, #search input, .the-border, #foot-nav  {
 
 .text .title, .the-quote, .the-link a, .chat .title, .asked  {
   color: #708090;
-  font-family: courier new,monospace
+  /* font-family: courier new,monospace */
+  font-family: 'Cousine', ;
+}
 }
 
 
@@ -102,28 +134,3 @@ blockquote, #search input, .the-border, #foot-nav  {
 }
 
 
-input#round {
-	width:30px; /*same as the height*/
-	height:30px; /*same as the width*/
-	background-color: #AAAAAA;
-	border:1px solid #AAAAAA; /*same colour as the background*/
-	color:#fff;
-	font-size:0.6em;
-	/*set the border-radius at half the size of the width and height*/
-	-webkit-border-radius: 15px;
-	-moz-border-radius: 15px;
-	border-radius: 15px;
-	/*give the button a small drop shadow*/
-	-webkit-box-shadow: 0 0 10px rgba(0,0,0, .75);
-	-moz-box-shadow: 0 0 10px rgba(0,0,0, .75);
-	box-shadow: 2px 2px 15px rgba(0,0,0, .75);
-}
-/***NOW STYLE THE BUTTON'S HOVER STATE***/
-input#round:hover {
-	background:#444444;
-	border:1px solid #444444;
-	/*reduce the size of the shadow to give a pushed effect*/
-	-webkit-box-shadow: 0px 0px 5px rgba(0,0,0, .75);
-	-moz-box-shadow: 0px 0px 5px rgba(0,0,0, .75);
-	box-shadow: 0px 0px 5px rgba(0,0,0, .75);
-}
